@@ -5,13 +5,14 @@ export const Nav = styled.nav`
 background: #1F93C1E2;
 width: 85%;
 margin: 50px;
-height: 550px;
+height: 450px;
 margin: auto;
 border-radius: 20px;
 display: flex;
 justify-content: space-between;
 text-align: center;
 margin-top: 50px;
+
 
 .Login{
     padding: 40px;
